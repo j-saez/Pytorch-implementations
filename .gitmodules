@@ -1,0 +1,9 @@
+[submodule "dc_gan"]
+	path = dc_gan
+	url = https://github.com/j-saez/dc_gan.git
+[submodule "WGAN"]
+	path = WGAN
+	url = https://github.com/j-saez/WGAN.git
+[submodule "WGAN_GP"]
+	path = WGAN_GP
+	url = https://github.com/j-saez/WGAN_GP.git
