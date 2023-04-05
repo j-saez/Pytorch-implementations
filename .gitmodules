@@ -1,9 +1,27 @@
 [submodule "dc_gan"]
-	path = dc_gan
+	path = GANs/dc_gan
 	url = https://github.com/j-saez/dc_gan.git
 [submodule "WGAN"]
-	path = WGAN
+	path = GANs/WGAN
 	url = https://github.com/j-saez/WGAN.git
 [submodule "WGAN_GP"]
-	path = WGAN_GP
+	path = GANs/WGAN_GP
 	url = https://github.com/j-saez/WGAN_GP.git
+[submodule "GANs/cycle_gan"]
+	path = GANs/cycle_gan
+	url = https://github.com/j-saez/cycle_gan.git
+[submodule "GANs/pix2pix"]
+	path = GANs/pix2pix
+	url = http://github.com/j-saez/pix2pix.git
+[submodule "3d_classification/pointnet-plus-plus"]
+	path = 3d_classification/pointnet-plus-plus
+	url = https://github.com/j-saez/pointnet-plus-plus.git
+[submodule "3d_classification/pointnet"]
+	path = 3d_classification/pointnet
+	url = https://github.com/j-saez/pointnet.git
+[submodule "Object_detection/YOLOV3"]
+	path = Object_detection/YOLOV3
+	url = https://github.com/j-saez/YOLOV3.git
+[submodule "Object_detection/YOLOV1"]
+	path = Object_detection/YOLOV1
+	url = https://github.com/j-saez/YOLOV1.git
